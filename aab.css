@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+
+
+.head {
+    color: #ffffff;
+}
+
+.jenny-para {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.btn {
+    width: 120px;
+}
+
+.background-container-section {
+    background-color: #1f2933;
+    background-size: cover;
+    width: 100%;
+    padding: 10px;
+}
+
+.facts-heading {
+    color: #cced00;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.about-me-heading {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.facts-image {
+    width: 100%;
+}
+
+.about-me-para {
+    color: #9aa5b1;
+}
+
+.skills-section-container {
+    background-color: #323f4b;
+    background-size: cover;
+    height: 80%;
+}
+
+.skills-container {
+    background-color: #1f2933;
+
+    border-radius: 9px;
+    padding: 15px;
+    margin: 5px;
+}
+
+.icon-image {
+    height: 64px;
+    width: 64px;
+}
+
+.cards-heads {
+    color: #ffffff;
+    margin-bottom: 2px;
+    font-size: 19px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.portfolio-container {
+    background-color: #3e4c59;
+    background-size: cover;
+    height: 100%;
+    padding: 5px
+}
+
+.protfolio-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.bulk-heading {
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.box-container {
+    background-color: #323f4b;
+    padding: 5px;
+    background-size: cover;
+    margin: 5px;
+}
+
+.inside-image {
+    width: 15%;
+}
+
+.royal-heading {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+.paragraph {
+    color: #9aa5b1;
+}
+
+.bg-container {
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png);
+    background-size: cover;
+    height: 40vh;
+    width: 100%;
+}
+
+.hr-line {
+    background-color: white;
+    width: 20vw;
+}
+
+.number-head {
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.para {
+    color: #ffffff;
+}
+
+.bakground {
+    background-color: #1f2933;
+    background-size: cover;
+    height: 100%;
+}
+
+.testimonial-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.testimonials-heading2 {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 25px;
+}
+
+.this-is-container {
+    background-color: #323f4b;
+    background-size: 70vh;
+    height: 40%;
+}
+
+.image {
+    height: 20vh;
+    border-radius: 75px;
+}
+
+.testimonials-para {
+    color: #9aa5b1;
+}
+
+.jenny-section-container {
+    background-color: #001c32;
+    height: 100vh;
+    background-size: cover;
+    padding-top: 35px;
+    padding-left: 5px;
+}
+
+.jenny-image {
+    width: 40%;
+    border-radius: 60px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+}
+
+.jenny-heading {
+    color: #cced00;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.jenny-para {
+    color: #5a7184;
+}
+
+.icon {
+    color: #5a7184;
+    font-size: 20px;
+    padding: 5px;
+}
+
+.background {
+    background-color: #0d2436;
+    background-size: cover;
+
+}
+
+.para {
+    color: #ffffff;
+}
